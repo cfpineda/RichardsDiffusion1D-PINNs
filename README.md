@@ -5,8 +5,7 @@ Physics-Informed Neural Network (PINN) for solving the **1D diffusion form of
 the Richards equation**, using the Hall mortar experiment as a reference case.
 
 The goal is to offer a clear and reproducible starting point for PINN-based
-simulations of unsaturated flow in porous media. More experiments and models
-will be added over time.
+simulations of unsaturated flow in porous media.
 
 ---
 
