@@ -4,7 +4,7 @@ This repository provides a **minimal, functional implementation** of a
 Physics-Informed Neural Network (PINN) for solving the **1D diffusion form of
 the Richards equation**, using the Hall mortar experiment as a reference case.
 
-The goal is to offer a clear and reproducible starting point for PINN-based
+The goal is to offer a clear and reproducible starting point for PINNs-based
 simulations of unsaturated flow in porous media.
 
 ---
